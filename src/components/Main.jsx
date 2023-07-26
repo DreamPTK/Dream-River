@@ -3,6 +3,7 @@ import { TypeAnimation } from "react-type-animation";
 import { BsGithub, BsLinkedin } from "react-icons/bs";
 import { SiPypi } from "react-icons/si";
 
+
 const Main = () => {
   return (
     <div id="main">
@@ -15,7 +16,7 @@ const Main = () => {
         <div className=" max-w-[600px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center">
           <img
             className="m-5 flex flex-col  justify-center items-center "
-            src="src\assets\logo.png"
+            src="https://github.com/Pathakorn40/rice-detection/blob/main/Tutorial/image/logo.png"
             width="300px"
             alt="/"
           />
