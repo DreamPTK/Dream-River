@@ -1,8 +1,8 @@
 {
-  "homepage": "https://Pathakorn40.github.io/Dream-River",
+  "homepage": "https://github.com/DreamPTK/Dream-River",
   "name": "myfirstweb",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
