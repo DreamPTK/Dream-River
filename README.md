@@ -1,4 +1,4 @@
-# Rice culivated area detection 
+# Dream-River
 
 PyPI: https://pypi.org/project/dream_river/
 ##### Now!!! We are going to improve the precision of detection. This is just Demo version.
@@ -10,7 +10,7 @@ This is a library that contain geospatial tools for jupyter environment on spher
 open CMD or Terminal
 
 ```python
-pip install dream-river==0.0.8
+pip install dream-river
 ```
 ## How to use 
 
