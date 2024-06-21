@@ -3,10 +3,11 @@ import Install_Item from "./Install_Item";
 
 const data = [
   {
-    text: "Need to setup Microsoft C++ Build Tools before Installation",
-    text: "Need to install GDAL via wheel file, Download in this link below",
+    text: "Need to setup Microsoft C++ Build Tools before Installation and install GDAL via wheel file, Download in this link below",
     detail: "https://github.com/cgohlke/geospatial-wheels/releases",
-    text: "example GDAL Installation in Python 3.9",
+  },
+  {
+    text: "Example GDAL Installation in Python 3.9",
     detail: "pip install GDAL-3.8.4-cp39-cp39-win_amd64.whl",
   },
   {
